@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular ,Laravel**
 
-- 📝 I regularly write articles on [my mobile apps about Roman tombs](my mobile apps about Roman tombs)
+- 📝 I regularly write articles on [.NET MAUI ,PYTHON]
 
 - 📫 How to reach me **kamelshili1234@gmail.com**
 
